@@ -1,4 +1,4 @@
-# affine
+# notch
 Isomorphic framework for consistent development experience of frontend and backend, combining the good parts of Angular and NestJS.
 
 Features:
